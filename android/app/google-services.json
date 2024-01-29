@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530581983851",
+    "project_id": "tas-project-26686",
+    "storage_bucket": "tas-project-26686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530581983851:android:8b59d0a15e5c07bbac972e",
+        "android_client_info": {
+          "package_name": "com.example.projecttas_223200007"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530581983851-on4ojlbir57lce7qdf4v5n27kp38r79a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31oLTIfzzWUkPKfTbP2Hy88Fp9C21FWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530581983851-on4ojlbir57lce7qdf4v5n27kp38r79a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
